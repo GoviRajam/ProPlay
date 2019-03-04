@@ -1,0 +1,103 @@
+Version v 1.0.0
+Text Domain name changed from THEME_NAME to exc-Proplay-theme
+Tgm Library Updated
+Remove Favicon Settings in theme options
+Facebook API Settings Remove in theme options
+Wordpress Social Login plugin source added
+Add Font Awesome library
+Wordpress Social Login Syle in Style.css
+Custom video thumbnail size fix in common.css
+favicon settings removed in favour of wordpress built-in settings
+Theme social login functionality removed in favour of Wordpress Social Login plugin
+removed unneccessary commented code
+
+
+Version v 0.0.9
+Prettyphoto version update
+
+Version v.0.0.8
+Youtube API update
+Youtube API key support added in theme options
+Support added to fetch multiple channel playlists
+TGM plugin activator library update
+Revolution slider update
+No more duplicate entries for new videos and audios
+
+Version v0.0.7
+Added option in theme option to hide or unhide wp admin bar
+Added max-width: 100%; & height: auto; for all images
+
+Version v0.0.6
+New user registration mail url update to home_url();
+Bug User registration error redirect to wordpress backend fixed
+Bug Forgot password redirect to wordpress backend fixed
+Fully Ajax User login
+Fully Ajax Forgot password
+
+Version v0.0.5
+Responsive Menu Slider overlay bug fixed in style.css
+page builder bug fixed
+Video multilingual embed bug fixed
+Menu on off bug fixed
+HTML entities bug fixed
+
+
+Version v 0.0.4
+Theme options - Video Settings sortby ID added
+Audio file upload button bug fixed
+PageBuilder output bug fixed
+
+Version v 0.0.3
+Admin Logo Fixed
+Videos Uploading bug fixed
+Audio Uploading verified
+Audio / Video Single page image removed
+Audio / Video multiple files upload Message fixed
+Audio / Video BreadCrumbs fixed
+Youtube Videos playlists and channel fetching limit option added in theme options
+Audio and videos posting in similar section bug fixed
+Audio / Video editing HTML entities bug fixed
+Video / Audio upload on error message bug fixed
+
+Version v 0.0.2
+Search Page design fixed
+Embedded Audio empty alert issue fixed
+Uploaded Audio empty thumb issue fixeds
+
+
+--------------------
+Update version 0.0.2
+--------------------
+
+1) Embedded Audio empty alert bug fixed
+2) Uploaded Audio empty thumb bug fixed
+
+--------------------
+Update version 0.0.1
+--------------------
+
+1)added option in theme options to change log for wp-login.php
+2)If administrator has not created login page then user can allow wp-admin area.
+3)Custom uploaded video can auto play on video detail page while click on featured image.
+4)excerpt is removed in default page template.
+5)Email was shouted when user login with facebook is fixed.
+6)Added an option in themeoptions to allow admin to change the homepage videos sorting order.
+7)Added options in theme options to allow admin to show hide upload video / add video buttons on user profile page.
+8)Featured image on blog pages can be enlarge in popup.
+9)url links highlighted as cant see them on pages. maybe red colour to match theme is fixed
+
+10)is this typo in css "pulished" or pulished is fixed from dark.css
+11)Detailed help note is added under each field while uploading / adding videos or audios
+12)Vidoes in blog posts was to displayed properly is fixed.
+
+13)Upload button dialog box issue is fixed.
+
+14)Signup button need to proper link to signup page on login page is fixed
+
+15)Signup button need to proper link to signup page on forgot page is fixed
+
+16)Added theme option to show featured image for videos at video detail page or not.
+
+17)Private channels and playlists should not be visible publically is fixed.
+
+--------------------
